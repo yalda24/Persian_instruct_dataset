@@ -1,0 +1,171 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "milad24k",
+      "name": "milad24k",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158809497?v=4",
+      "profile": "https://github.com/milad24k",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "mahdieh-Raeyati",
+      "name": "mahdieh-Raeyati",
+      "avatar_url": "https://avatars.githubusercontent.com/u/115537868?v=4",
+      "profile": "https://github.com/mahdieh-Raeyati",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "Iminiume",
+      "name": "Iman Arjmandnia",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113291450?v=4",
+      "profile": "https://github.com/Iminiume",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "Nimakhdb13",
+      "name": "Nima Khodabakhshi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109285206?v=4",
+      "profile": "https://github.com/Nimakhdb13",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "Armi-B",
+      "name": "Armi-B",
+      "avatar_url": "https://avatars.githubusercontent.com/u/117648704?v=4",
+      "profile": "https://github.com/Armi-B",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "mostafaamiri",
+      "name": "mostafa amiri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20011144?v=4",
+      "profile": "https://github.com/mostafaamiri",
+      "contributions": [
+        "projectManagement",
+        "mentoring"
+      ]
+    },
+    {
+      "login": "Mzmou",
+      "name": "Marziyeh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121482653?v=4",
+      "profile": "https://github.com/Mzmou",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "sadeghhpr",
+      "name": "sadeghhpr",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99759494?v=4",
+      "profile": "https://github.com/sadeghhpr",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "ali-zm",
+      "name": "ali-zm",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122468687?v=4",
+      "profile": "https://github.com/ali-zm",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "1parsaheidari1",
+      "name": "Parsa Heidari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/147088673?v=4",
+      "profile": "https://github.com/1parsaheidari1",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "aemovahed",
+      "name": "Ali E.Movahed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122293053?v=4",
+      "profile": "https://github.com/aemovahed",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "farcshad",
+      "name": "farcshad",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52861891?v=4",
+      "profile": "https://github.com/farcshad",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "ImanRsl10",
+      "name": "Iman Rasouli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/113336940?v=4",
+      "profile": "https://github.com/ImanRsl10",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "Saman2C",
+      "name": "Saman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121295321?v=4",
+      "profile": "https://github.com/Saman2C",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "mosipamo",
+      "name": "m.sina.parvizi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122217299?v=4",
+      "profile": "http://www.linkedin.com/in/mohammad-sina-parvizi",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "Amirhossein-Yousefvand",
+      "name": "Amirhossein-Yousefvand",
+      "avatar_url": "https://avatars.githubusercontent.com/u/129658839?v=4",
+      "profile": "https://github.com/Amirhossein-Yousefvand",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "nargesasa",
+      "name": "nargesasa",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122645493?v=4",
+      "profile": "https://github.com/nargesasa",
+      "contributions": [
+        "data"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Persian_instruct_dataset",
+  "projectOwner": "mostafaamiri"
+}
